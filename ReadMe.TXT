@@ -18,5 +18,5 @@ Look for and write down "IDE", "ATA" or "SATA" port numbers.  In Linux, use
 it's too difficult for TempleOS to figure-out port numbers, automatically.)
 
 The source code can also be found at the TempleOS web site, 
-http://www.templeos.org but cannot be compiled outside TempleOS because
+http://www.templeos.net but cannot be compiled outside TempleOS because
 it's HolyC, a nonstandard C/C++ dialect, and asm.
